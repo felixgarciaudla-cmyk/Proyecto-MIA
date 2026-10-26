@@ -1,0 +1,2 @@
+﻿conjunto,modelo_seleccionado,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,f1_weighted
+test,HistGradientBoosting,0.9857364341085272,0.9807712996789002,0.9752845196290062,0.9807712996789002,0.9779678517110183,0.9858330852121838

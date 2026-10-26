@@ -1,0 +1,2 @@
+﻿accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,log_loss,cobertura_objetivo_90,cobertura_observada_calibracion,cobertura_observada_test,tamano_medio_conjunto_test
+0.9891992551210428,0.9837162381660923,0.9830050535331787,0.9837162381660923,0.9833458710265336,0.989175700164793,0.04266692307577873,0.9,0.9010048381094157,0.8707635009310987,0.8711359404096835
