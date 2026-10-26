@@ -1,0 +1,339 @@
+Received: from CH0PR11MB5315.namprd11.prod.outlook.com (2603:10b6:610:be::7)
+ by LVXPR11MB9705.namprd11.prod.outlook.com with HTTPS; Thu, 1 Oct 2026
+ 20:14:50 +0000
+Received: from SJ2PR11MB7648.namprd11.prod.outlook.com (2603:10b6:a03:4d3::11)
+ by CH0PR11MB5315.namprd11.prod.outlook.com (2603:10b6:610:be::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.472.18; Thu, 1 Oct
+ 2026 20:14:47 +0000
+Received: from SJ2PR11MB7648.namprd11.prod.outlook.com
+ ([fe80::3415:682:2767:b792]) by SJ2PR11MB7648.namprd11.prod.outlook.com
+ ([fe80::3415:682:2767:b792%5]) with mapi id 15.21.0472.015; Thu, 1 Oct 2026
+ 20:14:47 +0000
+From: Armando Arce <Armando.Arce@bancoprocredit.com.ec>
+To: Andres Olmedo <Andres.Olmedo@bancoprocredit.com.ec>
+CC: =?iso-8859-1?Q?Seguridad_de_la_Informaci=F3n?=
+	<gd.Seguridad_Informacion@bancoprocredit.com.ec>
+Subject:
+	=?iso-8859-1?Q?RE:_Solicitud_de_autorizaci=F3n_para_uso_de_informaci=F3n_?=
+ =?iso-8859-1?Q?estad=EDstica_en_proyecto_de_titulaci=F3n?=
+Thread-Topic:
+	=?iso-8859-1?Q?Solicitud_de_autorizaci=F3n_para_uso_de_informaci=F3n_esta?=
+ =?iso-8859-1?Q?d=EDstica_en_proyecto_de_titulaci=F3n?=
+Thread-Index: AQHdTVeFZgLJCOuQkUaMPW+sD+gnSrbpIRbA
+Date: Thu, 1 Oct 2026 20:14:47 +0000
+Message-ID:
+	<SJ2PR11MB7648BEC6682C6EB80DC80991DD8A2@SJ2PR11MB7648.namprd11.prod.outlook.com>
+References:
+	<LVXPR11MB9705649705A48040B4AE8ED3BD8F2@LVXPR11MB9705.namprd11.prod.outlook.com>
+In-Reply-To:
+	<LVXPR11MB9705649705A48040B4AE8ED3BD8F2@LVXPR11MB9705.namprd11.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SJ2PR11MB7648.namprd11.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	a178fef5-fe07-4b9d-6f9b-08df1ff8a3f3
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+	MSIP_Label_aa7af428-4bfb-4aad-a33e-7ec74c482b37_Enabled=True;MSIP_Label_aa7af428-4bfb-4aad-a33e-7ec74c482b37_SiteId=22beeaa2-4ba0-4c6c-83a2-5e0a512df830;MSIP_Label_aa7af428-4bfb-4aad-a33e-7ec74c482b37_SetDate=2026-09-26T01:40:17.0010000Z;MSIP_Label_aa7af428-4bfb-4aad-a33e-7ec74c482b37_Name=Restricted
+ to
+ ProCreditGroup;MSIP_Label_aa7af428-4bfb-4aad-a33e-7ec74c482b37_ContentBits=3;MSIP_Label_aa7af428-4bfb-4aad-a33e-7ec74c482b37_Method=Standard
+x-ms-publictraffictype: Email
+x-ms-exchange-crosstenant-id: 22beeaa2-4ba0-4c6c-83a2-5e0a512df830
+authentication-results: mx.microsoft.com 1; dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=bancoprocredit.com.ec;
+x-ms-traffictypediagnostic:
+	SJ2PR11MB7648:EE_|CH0PR11MB5315:EE_|LVXPR11MB9705:EE_
+x-ms-office365-filtering-correlation-id: a178fef5-fe07-4b9d-6f9b-08df1ff8a3f3
+x-forefront-antispam-report:
+	CIP:255.255.255.255;CTRY:;LANG:es;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SJ2PR11MB7648.namprd11.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(23010399003)(366016)(18002099003)(22082099003)(55112099003)(6133799003)(10067099003)(56012099006)(11063799006)(8096899003)(41050700001);DIR:INT;
+x-microsoft-antispam:
+	BCL:0;ARA:13230040|23010399003|366016|18002099003|22082099003|55112099003|6133799003|10067099003|56012099006|11063799006|8096899003|41050700001;
+x-ms-exchange-crosstenant-originalarrivaltime: 01 Oct 2026 20:14:47.2192 (UTC)
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-crosstenant-network-message-id:
+	a178fef5-fe07-4b9d-6f9b-08df1ff8a3f3
+x-ms-exchange-transport-crosstenantheadersstamped: CH0PR11MB5315
+x-ms-exchange-transport-endtoendlatency: 00:00:03.4112181
+x-ms-exchange-atpmessageproperties: SA|SL
+x-ms-exchange-processed-by-bccfoldering: 15.21.0451.014
+x-ms-exchange-crosstenant-authas: Internal
+x-ms-exchange-crosstenant-authsource: SJ2PR11MB7648.namprd11.prod.outlook.com
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname:
+	u2z4LjpgSHp16Ric2sT6IfKGMsDapI9c7U/ZIhmu7OJ/HjfQs/8PM+xNgyA0UlVHe7MKm4F1cpAuHd2gx5QwJz1R4XJddJPS71gqJyR5nQywfUrdTxPr18/qtYcGPjpD
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930201)(20251009189)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	pjOP/3e2KCGLS61twZSB94Xu7QXIxcm4HMmw54jS/vGn1EU4c0Z3RrJr5T+BcZxRiPuhlmA6UkYqJRGoOy55+h7xSYHSBvUFTbI+G3wgEuQQSxE91M3p3eQHHnCiw0Xl8VpMweI72JYGIAs4oAvAHL2R5h6JQ+HVo3Z9+VEC01d/+kNnmB8f/TqPX5r8xWza4d03J/KXk3wt8ZHS1zYgbmbkWDS60b7pvbby6iv8GXQYicsBreuN+3LAKxLa9LeCe6U6IEhjLGEPpb+Is15hGaecuNnvWrXJXVx7xDXa14v23UIHBxftKPSph6rllPs7YUbPiJWK0+vCRHVxZdxv86hq8xwEsdNfekHB2QXjGso6az5oENRmtMurtdaqdcGKWLPpwzHM37M8ZsmckK9bVHN2sNV1LnUOZX0uhFRAU875E3k/cr2JvcHq5wS65LolSODBnnzaABI2lIYZFIPm47jE4ig+O9Z4mrpr4wSp7HIBzabdFkkYw8wZig5Crg8mwnX5Gzl7P9jU3iu7BDvyvk9zLYLr6tzQMzzWXn/A0wPrm2GxdyVBKwOum3I9GohJbI6equH36Cf3jkQrlXHXf8i3YMQaeOJl0y30DrGGitk5mA+/jzgKXQ8W+dzVsHrPbU5pUgWuCQhTuRg63QVirMU7uelUMit/1vmkgHCqNX647oC0KqwX3QRMUBU6NERh27TJuWtqeA+7HzBgYmP/+IOCJVPTcolKRTXHTbToKKgD8ShAu7M4MJp4TBIsuxS4cgqOFQKMEIS6TbT0TL8uyCmLFvlsytYon9eMtVusf9huAXc+Jip7SX1tcUauq6Vj
+Content-Type: multipart/alternative;
+	boundary="_000_SJ2PR11MB7648BEC6682C6EB80DC80991DD8A2SJ2PR11MB7648namp_"
+MIME-Version: 1.0
+
+--_000_SJ2PR11MB7648BEC6682C6EB80DC80991DD8A2SJ2PR11MB7648namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Classification: Restricted to ProCreditGroup
+
+
+Buenas tardes Andr=E9s,
+
+Desde la Unidad de Seguridad de la Informaci=F3n te autorizo el uso de la i=
+nformaci=F3n estad=EDstica de cartera en mora y pre-mora para tu proyecto d=
+e titulaci=F3n, tomando en cuenta lo siguiente:
+
+1. Los datos deben ser agregados y anonimizados, sin identificadores de cli=
+entes y evitando segmentos con muy pocos casos que permitan re-identificar =
+a alguien.
+2. =DAsalos solo para fines acad=E9micos, gu=E1rdalos =FAnicamente en equip=
+os y repositorios del banco (evitar dispositivos personales, nubes no autor=
+izadas ni herramientas de IA externas) y no los compartas con terceros exce=
+pto si se trata de tu grupo de trabajo de la universidad o el equipo docent=
+e.
+3. Idealmente, presenta solo resultados consolidados y no menciones al banc=
+o ni cifras sensibles del negocio sin autorizaci=F3n previa.
+4. Al terminar el proyecto, elimina los datos de forma segura y nos remites=
+ confirmaci=F3n de esta acci=F3n al equipo de Seguridad de la Informaci=F3n=
+.
+
+Si surge cualquier duda o incidente con la informaci=F3n, av=EDsame de inme=
+diato.
+
+=A1Mucho =E9xito con tu proyecto!
+
+Saludos,
+
+Armando
+
+From: Andres Olmedo <Andres.Olmedo@bancoprocredit.com.ec>
+Sent: Friday, September 25, 2026 8:40 PM
+To: Armando Arce <Armando.Arce@bancoprocredit.com.ec>
+Subject: Solicitud de autorizaci=F3n para uso de informaci=F3n estad=EDstic=
+a en proyecto de titulaci=F3n
+
+Classification: Restricted to ProCreditGroup
+
+Estimado Armando Arce
+Jefe del Departamento de Seguridad de la Informaci=F3n de Banco ProCredit S=
+.A
+
+Por medio de la presente, solicito su autorizaci=F3n para utilizar informac=
+i=F3n estad=EDstica relacionada con la cartera en mora y premora, proporcio=
+nada por el =C1rea de Recuperaci=F3n de Cartera, como insumo para el desarr=
+ollo de mi proyecto de titulaci=F3n enfocado en la construcci=F3n y validac=
+i=F3n de un modelo de predicci=F3n de mora.
+La informaci=F3n requerida ser=E1 utilizada exclusivamente con fines acad=
+=E9micos y de investigaci=F3n aplicada, permitiendo analizar el comportamie=
+nto hist=F3rico de la cartera, entrenar el modelo predictivo y evaluar su n=
+ivel de precisi=F3n mediante la comparaci=F3n de los resultados estimados f=
+rente a los resultados reales observados.
+Cabe se=F1alar que la informaci=F3n proporcionada corresponde a datos estad=
+=EDsticos agregados y consolidados, sin incluir informaci=F3n de identifica=
+ci=F3n de clientes, datos personales, datos sensibles ni elementos que perm=
+itan identificar directa o indirectamente a personas espec=EDficas. Por lo =
+tanto, el tratamiento de la informaci=F3n se limita al an=E1lisis de indica=
+dores y m=E9tricas de comportamiento de cartera con fines de validaci=F3n d=
+el modelo.
+Asimismo, me comprometo a utilizar la informaci=F3n exclusivamente para los=
+ fines descritos, mantener su confidencialidad, cumplir con las pol=EDticas=
+ institucionales de seguridad de la informaci=F3n y presentar =FAnicamente =
+resultados consolidados y anonimizados dentro del documento de titulaci=F3n=
+.
+Agradecer=E9 su revisi=F3n y autorizaci=F3n para el uso de la informaci=F3n=
+ descrita, as=ED como cualquier recomendaci=F3n o control adicional que con=
+sideren pertinente.
+Atentamente,
+Andr=E9s Olmedo
+
+--_000_SJ2PR11MB7648BEC6682C6EB80DC80991DD8A2SJ2PR11MB7648namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+span.EmailStyle20
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<p style=3D"font-family:Calibri;font-size:10pt;color:#000000;margin:5pt;fon=
+t-style:normal;font-weight:normal;text-decoration:none;" align=3D"Center">
+Classification: Restricted to ProCreditGroup<br>
+</p>
+<br>
+<div>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Buenas tardes Andr=E9s,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">Desde la Unidad de Seguridad de=
+ la Informaci=F3n te autorizo el uso de la informaci=F3n estad=EDstica de c=
+artera en mora y pre-mora para tu proyecto de titulaci=F3n, tomando en cuen=
+ta lo siguiente:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">1. Los datos deben ser agregado=
+s y anonimizados, sin identificadores de clientes y evitando segmentos con =
+muy pocos casos que permitan re-identificar a alguien.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">2. =DAsalos solo para fines aca=
+d=E9micos, gu=E1rdalos =FAnicamente en equipos y repositorios del banco (ev=
+itar dispositivos personales, nubes no autorizadas ni herramientas de IA ex=
+ternas) y no los compartas con terceros excepto
+ si se trata de tu grupo de trabajo de la universidad o el equipo docente.<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">3. Idealmente, presenta solo re=
+sultados consolidados y no menciones al banco ni cifras sensibles del negoc=
+io sin autorizaci=F3n previa.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">4. Al terminar el proyecto, eli=
+mina los datos de forma segura y nos remites confirmaci=F3n de esta acci=F3=
+n al equipo de Seguridad de la Informaci=F3n.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">Si surge cualquier duda o incid=
+ente con la informaci=F3n, av=EDsame de inmediato.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"ES-EC">=A1Mucho =E9xito con tu proy=
+ecto!<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">Saludos,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"ES-EC">Armando</span><span style=3D"ms=
+o-ligatures:standardcontextual"><o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> Andres Olmedo &lt;Andres.Olmed=
+o@bancoprocredit.com.ec&gt;
+<br>
+<b>Sent:</b> Friday, September 25, 2026 8:40 PM<br>
+<b>To:</b> Armando Arce &lt;Armando.Arce@bancoprocredit.com.ec&gt;<br>
+<b>Subject:</b> Solicitud de autorizaci=F3n para uso de informaci=F3n estad=
+=EDstica en proyecto de titulaci=F3n<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div style=3D"margin-left:5.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:b=
+lack">Classification: Restricted to ProCreditGroup<o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Estimado Armando Arce<o:p></o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Jefe del Departamento de Seguridad de la Informaci=F3=
+n de Banco ProCredit S.A<o:p></o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Por medio de la presente, solicito su autorizaci=F3n =
+para utilizar informaci=F3n estad=EDstica relacionada con la cartera en mor=
+a y premora, proporcionada por el =C1rea de Recuperaci=F3n
+ de Cartera, como insumo para el desarrollo de mi proyecto de titulaci=F3n =
+enfocado en la construcci=F3n y validaci=F3n de un modelo de predicci=F3n d=
+e mora.<o:p></o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">La informaci=F3n requerida ser=E1 utilizada exclusiva=
+mente con fines acad=E9micos y de investigaci=F3n aplicada, permitiendo ana=
+lizar el comportamiento hist=F3rico de la cartera,
+ entrenar el modelo predictivo y evaluar su nivel de precisi=F3n mediante l=
+a comparaci=F3n de los resultados estimados frente a los resultados reales =
+observados.<o:p></o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Cabe se=F1alar que la informaci=F3n proporcionada cor=
+responde a datos estad=EDsticos agregados y consolidados, sin incluir infor=
+maci=F3n de identificaci=F3n de clientes, datos
+ personales, datos sensibles ni elementos que permitan identificar directa =
+o indirectamente a personas espec=EDficas. Por lo tanto, el tratamiento de =
+la informaci=F3n se limita al an=E1lisis de indicadores y m=E9tricas de com=
+portamiento de cartera con fines de validaci=F3n
+ del modelo.<o:p></o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Asimismo, me comprometo a utilizar la informaci=F3n e=
+xclusivamente para los fines descritos, mantener su confidencialidad, cumpl=
+ir con las pol=EDticas institucionales de
+ seguridad de la informaci=F3n y presentar =FAnicamente resultados consolid=
+ados y anonimizados dentro del documento de titulaci=F3n.<o:p></o:p></span>=
+</p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Agradecer=E9 su revisi=F3n y autorizaci=F3n para el u=
+so de la informaci=F3n descrita, as=ED como cualquier recomendaci=F3n o con=
+trol adicional que consideren pertinente.<o:p></o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Atentamente,<o:p></o:p></span></p>
+</div>
+<div style=3D"margin-top:12.0pt;margin-bottom:12.0pt">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:11.0pt;color:black">Andr=E9s Olmedo<o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_SJ2PR11MB7648BEC6682C6EB80DC80991DD8A2SJ2PR11MB7648namp_--
